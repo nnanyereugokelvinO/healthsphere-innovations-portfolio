@@ -50,7 +50,7 @@ If this identity is compromised, an attacker could potentially use these permiss
 
 ### Evidence
 
-- [IAM-003 — Redacted Managed Identity Screenshot](IAM-003-managed-identity-redacted.png)
+- [IAM-003 — Redacted Managed Identity Screenshot](IAM-003-managed-identity-redacted.png.png)
 - Azure Portal role-assignment inspection: `LAW-HuntPractice`
 - Microsoft Sentinel Contributor role-definition inspection
 
